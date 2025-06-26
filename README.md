@@ -36,7 +36,7 @@ A simple, robust, and scalable system for managing financial accounts and transa
 
 2.  **Create a `.env` file** in the root directory by copying the `.env.example` (if provided) or creating it from scratch with the following content:
     ```env
-    DB_HOST=db
+    DB_HOST=localhost
     DB_PORT=3306
     DB_USERNAME=root
     DB_PASSWORD=password
